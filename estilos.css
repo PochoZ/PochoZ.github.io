@@ -1,0 +1,19 @@
+
+
+/* Tipofrafia JORGE PABLO ZAMER*/
+.fuente_nombre {font-family: 'Aclonica', sans-serif; text-align: center;padding-top: 2%;}
+
+/* Tamaña de letra para parraafos*/
+.parrafo {font-size: 20px; }
+
+/* Propiedades de Imagen personal*/
+.centroimg {display: flex;align-items: center;}
+
+/* Propiedades de Fondo Conenedor */
+.fondo2{background: radial-gradient(rgb(255, 255, 255),rgb(166, 213, 228))}
+
+/* Propiedades de Fondo CV */
+.fondo1{background-image: url(fondo1.jpg); background-position: center;background-repeat: no-repeat;}
+
+/* Propiedades de Fondo Obras y Proyectos */
+.fondo3{background: radial-gradient(rgb(255, 255, 255),rgb(225, 255, 116))}
